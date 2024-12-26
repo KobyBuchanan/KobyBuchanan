@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @KobyBuchanan
-- 👀 I’m interested in Astrophysics and coding
-- 🌱 I’m currently learning more advanced phython and some backend stuff for fun
-- 📫 How to reach me ...
+- 👀 I’m interested in Computational Astrophysics and learning new programming skills
+- 🌱 I’m currently learning: Backend programming with python, creating and running physics based simulations, C++
+- 📋 I'm planning to learn: Memory management with C++, Machine learning
+- 📫 How to reach me: Kobya.Buchanan@gmail.com
 - 😄 Pronouns: He/They
-- ⚡ Fun fact: ...
+
 
 <!---
 KobyBuchanan/KobyBuchanan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
